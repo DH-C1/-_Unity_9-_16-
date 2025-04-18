@@ -1,0 +1,14 @@
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\bin\Debug\net6.0\SpartaRPG_V.exe
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\bin\Debug\net6.0\SpartaRPG_V.deps.json
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\bin\Debug\net6.0\SpartaRPG_V.runtimeconfig.json
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\bin\Debug\net6.0\SpartaRPG_V.dll
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\bin\Debug\net6.0\SpartaRPG_V.pdb
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\SpartaRPG_V.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\SpartaRPG_V.AssemblyInfoInputs.cache
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\SpartaRPG_V.AssemblyInfo.cs
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\SpartaRPG_V.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\SpartaRPG_V.dll
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\refint\SpartaRPG_V.dll
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\SpartaRPG_V.pdb
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\SpartaRPG_V.genruntimeconfig.cache
+D:\Visual_Studio_Projects\Interface\SpartaRPG_V\obj\Debug\net6.0\ref\SpartaRPG_V.dll
